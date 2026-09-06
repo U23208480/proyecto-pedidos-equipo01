@@ -1,5 +1,11 @@
-*   ec327f3 merge: integrar documentación de evidencias en main
+*   ab73ba0 merge: integrar datos reales de integrantes y descripción del proyecto
 |\  
+| * ba86ec1 docs: actualizar integrantes reales y descripción del proyecto
+* | f9bd79f merge: integrar informe final de evidencias en main
+|\| 
+| * 66b02e7 docs: agregar informe final en Word con evidencias del flujo de trabajo Git
+* | ec327f3 merge: integrar documentación de evidencias en main
+|\| 
 | * 42f7012 docs: agregar evidencias de historial de commits y explicación del conflicto
 * | 59d31d6 merge: integrar develop en main tras resolver conflicto de README
 |\| 
