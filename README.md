@@ -2,7 +2,7 @@
 
 ## Integrantes
 - Juan Retuerto (U23208480)
-- [Nombre del compañero 2]
+- Juan Retuerto (U23208480) - Módulos: clientes, productos, pedidos, integración
 
 ## Descripción del proyecto
 Aplicación de consola para registrar y consultar pedidos de clientes de una
