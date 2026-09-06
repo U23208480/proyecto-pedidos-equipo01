@@ -4,6 +4,8 @@ pedidos = []
 
 
 def registrar_pedido(cliente_id, productos_ids):
+    if cliente_id is None or not productos_ids:
+        raise ValueError("El pedido debe tener un cliente y al menos un producto")
     pedido = {
         "id": len(pedidos) + 1,
         "cliente_id": cliente_id,
