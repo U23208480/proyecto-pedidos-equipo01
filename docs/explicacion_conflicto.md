@@ -1,12 +1,12 @@
 # Explicación del conflicto resuelto
 
 ## ¿Por qué ocurrió el conflicto?
-Dos integrantes del equipo (Juan y María) crearon ramas independientes a
+Dos integrantes del equipo (Juan y Alberto) crearon ramas independientes a
 partir de `develop` (`conflicto/readme-juan` y `conflicto/readme-companero`)
 y ambos modificaron la misma línea de la sección "Integrantes" del archivo
 `README.md`, cada uno agregando su propia información. Al integrar primero
 la rama de Juan en `develop` sin problemas, y luego intentar integrar la
-rama de María, Git no pudo combinar automáticamente los cambios porque
+rama de Alberto, Git no pudo combinar automáticamente los cambios porque
 ambas ramas modificaron la misma línea del archivo desde un punto de
 partida común.
 

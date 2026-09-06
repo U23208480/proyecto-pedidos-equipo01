@@ -3,3 +3,9 @@
   feature/pedidos
   feature/productos
 * main
+  remotes/origin/HEAD -> origin/main
+  remotes/origin/develop
+  remotes/origin/feature/clientes
+  remotes/origin/feature/pedidos
+  remotes/origin/feature/productos
+  remotes/origin/main
