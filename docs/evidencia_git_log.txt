@@ -1,5 +1,8 @@
-*   59d31d6 merge: integrar develop en main tras resolver conflicto de README
+*   ec327f3 merge: integrar documentación de evidencias en main
 |\  
+| * 42f7012 docs: agregar evidencias de historial de commits y explicación del conflicto
+* | 59d31d6 merge: integrar develop en main tras resolver conflicto de README
+|\| 
 | *   abeb776 fix: resolver conflicto en README.md integrando aportes de ambos integrantes
 | |\  
 | | * 88dba26 docs: actualizar sección de integrantes con datos de María
