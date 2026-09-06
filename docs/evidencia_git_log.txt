@@ -1,0 +1,30 @@
+*   59d31d6 merge: integrar develop en main tras resolver conflicto de README
+|\  
+| *   abeb776 fix: resolver conflicto en README.md integrando aportes de ambos integrantes
+| |\  
+| | * 88dba26 docs: actualizar sección de integrantes con datos de María
+| * |   6c6d857 merge: integrar cambios de README de Juan
+| |\ \  
+| | |/  
+| |/|   
+| | * 60a402c docs: actualizar sección de integrantes con responsabilidades de Juan
+| |/  
+* | 87f35b8 merge: integrar develop en main (v1.0 funcionalidades iniciales)
+|\| 
+| * e61dd9a feat: agregar punto de entrada main.py con demo de integración
+| *   f573078 merge: integrar feature/pedidos en develop
+| |\  
+| | * 8a6304f fix: corregir validación de pedidos sin cliente o productos
+| | * 569aafe feat: agregar registro y consulta de pedidos
+| |/  
+| *   3a02e3a merge: integrar feature/productos en develop
+| |\  
+| | * 881b516 feat: implementar registro y listado de productos
+| |/  
+| *   de17e74 merge: integrar feature/clientes en develop
+| |\  
+| | * 598ee8a feat: agregar registro y listado de clientes
+| |/  
+| * 1e65048 chore: crear estructura base de carpetas src y docs
+|/  
+* 843e781 docs: agregar README inicial del proyecto
