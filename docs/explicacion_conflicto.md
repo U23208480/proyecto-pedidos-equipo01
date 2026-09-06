@@ -1,9 +1,9 @@
 # Explicación del conflicto resuelto
 
 ## ¿Por qué ocurrió el conflicto?
-Dos integrantes del equipo (Juan y Alberto) crearon ramas independientes a
-partir de `develop` (`conflicto/readme-juan` y `conflicto/readme-companero`)
-y ambos modificaron la misma línea de la sección "Integrantes" del archivo
+Los integrantes del Grupo 1 (Juan y Alberto) creamos ramas independientes a
+partir de `develop` (`conflicto/readme-Juan` y `conflicto/readme-Alberto`)
+y ambos modificamos la misma línea de la sección "Integrantes" del archivo
 `README.md`, cada uno agregando su propia información. Al integrar primero
 la rama de Juan en `develop` sin problemas, y luego intentar integrar la
 rama de Alberto, Git no pudo combinar automáticamente los cambios porque
@@ -14,7 +14,7 @@ partida común.
 - `README.md` (sección "## Integrantes").
 
 ## ¿Cómo fue solucionado?
-1. Se ejecutó `git merge conflicto/readme-companero`, lo que generó el
+1. Se ejecutó `git merge conflicto/readme-Alberto`, lo que generó el
    conflicto marcado con `<<<<<<<`, `=======` y `>>>>>>>` en `README.md`.
 2. Se analizó el contenido de ambas versiones en conflicto.
 3. Se determinó que el contenido correcto era conservar ambas líneas, ya
