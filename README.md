@@ -6,7 +6,10 @@
 
 ## Descripción del proyecto
 Aplicación de consola para registrar y consultar pedidos de clientes de una
-empresa de Servicios Turísticos Norte Azul.
+empresa de Servicios Turísticos Norte Azul. El proyecto nace como evaluación
+práctica del uso de Git y un repositorio remoto, aplicando ramas, commits,
+integración de cambios y resolución de conflictos en un flujo de trabajo
+colaborativo.
 
 ## Funcionalidades principales
 - **Módulo de clientes**: registrar cliente, listar clientes.
