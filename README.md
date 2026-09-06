@@ -1,14 +1,15 @@
 # Proyecto Pedidos - Equipo 01
 
 ## Integrantes
-- Juan Retuerto (U23208480) - Módulos: clientes, productos, pedidos, integración
-- María López (U23208481) - Módulos: documentación y pruebas
+- Juan César Retuerto Ibañez (U23208480) - Módulos: clientes, productos, pedidos, integración
+- Alberto Joel Ramirez Ponte (U23249035) - Módulos: documentación y pruebas
 
 ## Descripción del proyecto
 Aplicación de consola para registrar y consultar pedidos de clientes de una
-pequeña empresa. El proyecto nace como evaluación práctica del uso de Git y
-un repositorio remoto, aplicando ramas, commits, integración de cambios y
-resolución de conflictos en un flujo de trabajo colaborativo.
+empresa de Servicios Turísticos Norte Azul. El proyecto nace como evaluación
+práctica del uso de Git y un repositorio remoto, aplicando ramas, commits,
+integración de cambios y resolución de conflictos en un flujo de trabajo
+colaborativo.
 
 ## Funcionalidades principales
 - **Módulo de clientes**: registrar cliente, listar clientes.
