@@ -2,7 +2,7 @@
 
 ## Integrantes
 - Juan Retuerto (U23208480)
-- [Nombre del compañero 2]
+- Alberto Joel Ramirez Ponte (U23249035) - Módulos: documentación y pruebas
 
 ## Descripción del proyecto
 Aplicación de consola para registrar y consultar pedidos de clientes de una
