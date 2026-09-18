@@ -1,8 +1,8 @@
 # Proyecto Pedidos - Equipo 01
 
 ## Integrantes
-- Juan César Retuerto Ibañez (U23208480) - Módulos: clientes, productos, pedidos, integración
-- Alberto Joel Ramirez Ponte (U23249035) - Módulos: documentación y pruebas
+- Juan César Retuerto Ibañez - U23208480 - Módulos: clientes, productos, pedidos, integración
+- Alberto Joel Ramirez Ponte - U23249035 - Módulos: documentación y pruebas
 
 ## Descripción del proyecto
 Aplicación de consola para registrar y consultar pedidos de clientes de una
